@@ -1,6 +1,5 @@
 # Solidity smart contracts coding problem
 
-[![Run Tests](https://github.com/eckelj/solidity_1/actions/workflows/test.yml/badge.svg)](https://github.com/eckelj/solidity_1/actions/workflows/test.yml)
 
 This is a Solidity coding problem for practical skill assessment. It is designed to take **no more than a few hours**.
 
